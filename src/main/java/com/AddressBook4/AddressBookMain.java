@@ -25,9 +25,10 @@ public class AddressBookMain
 //			    addressBookDictionary.sortPersonByCity();
 //				addressBookDictionary.sortPersonByState();
 //				addressBookDictionary.sortPersonByZip();
-				addressBookDictionary.addContactsToFile();
-				addressBookDictionary.readPersonDataFromFile();
-				
+//				addressBookDictionary.addContactsToFile();
+//				addressBookDictionary.readPersonDataFromFile();
+				addressBookDictionary.writeDataIntoCSVFile();
+				addressBookDictionary.readCSVDataFromFile();
 			}
 
 }
