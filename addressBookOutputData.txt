@@ -1,0 +1,11 @@
+AddressBook2 : {[Name: vi
+ address:  [city=hyd, state=ts, zip=2114]
+ Phone: 9123
+ Email: qwerty]}
+AddressBook1 : {[Name: sh
+ address:  [city=dnasuhd, state=mh, zip=87]
+ Phone: 9856
+ Email: qwas, Name: nik
+ address:  [city=sh, state=ut, zip=9898]
+ Phone: 989867
+ Email: qwee]}
